@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.card-con {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.product-img {
+  width: 300px;
+}
+.card-head {
+  font-size: 40px;
+  font-family: roboto;
+  color: #475569;
+  font-weight: bold;
+}
